@@ -8,8 +8,8 @@ function Table() {
   return (
     <div className="">
       <div className='row mx-0 px-4 mb-5 pb-5'>
-        <div className='col-12'>
-          <div className='d-flex justify-content-between align-items-center mt-5 mb-4'>
+        <div className='col-12 boxTable'>
+          <div className='d-flex justify-content-between align-items-center mb-4'>
             <h4 className='mb-0'>User Table</h4>
             <Link to='/' className='btn btn-primary'>Register</Link>
           </div>
